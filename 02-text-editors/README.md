@@ -27,9 +27,11 @@ This module focuses on mastering the `vi` / `vim` text editor, a critical skill 
 
 This module includes documented labs demonstrating real usage of the vi editor:
 
-labs/
-|___lab-vi-editor.md
-
+```text
+.
+└── labs/
+    └── lab-vi-editor.md
+```
 
 The lab covers:
 - Creating and editing files using vi
